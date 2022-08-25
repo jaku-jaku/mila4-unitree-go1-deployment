@@ -1,3 +1,6 @@
 [submodule "submodules/mila4-unitree-api-wrapper"]
 	path = submodules/mila4-unitree-api-wrapper
 	url = git@github.com:jaku-jaku/mila4-unitree-api-wrapper.git
+[submodule "submodules/fast_and_efficient"]
+	path = submodules/fast_and_efficient
+	url = git@github.com:Velythyl/fast_and_efficient.git
