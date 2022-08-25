@@ -1,3 +1,3 @@
 [submodule "submodules/mila4-unitree-api-wrapper"]
 	path = submodules/mila4-unitree-api-wrapper
-	url = git@github.com:jaku-jaku/mila4-unitree-api-wrapper.git
+	url = https://github.com/jaku-jaku/mila4-unitree-api-wrapper.git
