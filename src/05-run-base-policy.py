@@ -16,6 +16,7 @@ if __name__ == "__main__":
     print("Starting policy")
     print("------------------------------------------------------")
     cmd = torch.Tensor([0.5, 0, 0])
+    time.sleep(1)
     while True:
         state, obs, action = controller.control_highlevel(cmd)
         time.sleep(controller.dt) # very important - same amount of time between actions like in sim, respecting decimation
